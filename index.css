@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: rgba(176, 16, 16, 0.714);
+  }
+  div1 {
+    margin:auto;
+    width:max-content;
+  }
+  div {
+     margin:auto;
+     width:max-content;
+  }
+  p {
+    color:rgb(142, 15, 22);
+    font-family: verdana;
+    font-size: 20px;
+  }
